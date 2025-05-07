@@ -1,0 +1,19 @@
+ Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Airflow logs and database
+logs/
+airflow.db
+*.log
+
+# Docker volumes
+data/
+output/
+postgres-db-volume/
+
+# System files
+.DS_Store
+.env
