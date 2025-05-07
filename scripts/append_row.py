@@ -3,6 +3,7 @@ import csv
 import os
 
 # File paths (used by both local and docker setups)
+#test git
 DB_PATH = "data/example.db"
 
 CSV_PATH = "output/users.csv"
